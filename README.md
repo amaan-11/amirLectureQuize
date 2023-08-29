@@ -1,0 +1,2 @@
+# amirLectureQuize
+Mid-class assignment
